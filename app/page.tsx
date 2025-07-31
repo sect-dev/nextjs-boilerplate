@@ -239,7 +239,7 @@ export default function NexoraLanding() {
               <a href="/privacy-policy" className="hover:text-white transition-colors">
                 Privacy Policy
               </a>
-              <span>© 2025 Nexora</span>
+              <span>© 2025 Nexora • STOWARZYSZENIE KUPCÓW "MAX"</span>
             </div>
           </div>
         </div>
