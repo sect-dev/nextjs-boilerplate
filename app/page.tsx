@@ -80,7 +80,7 @@ export default function NexoraLanding() {
                 className="bg-gradient-to-r from-purple-500 to-pink-500 hover:from-purple-600 hover:to-pink-600 text-white border-0"
               >
                 <a
-                  href="https://play.google.com/store/apps/details?id=com.nexorabrowser.nexora"
+                  href="https://play.google.com/store/apps/details?id=com.nexorabrowser.nex"
                   target="_blank"
                   rel="noopener noreferrer"
                 >
@@ -106,7 +106,7 @@ export default function NexoraLanding() {
                   className="bg-gradient-to-r from-purple-500 to-pink-500 hover:from-purple-600 hover:to-pink-600 text-white border-0 w-full"
                 >
                   <a
-                    href="https://play.google.com/store/apps/details?id=com.nexorabrowser.nexora"
+                    href="https://play.google.com/store/apps/details?id=com.nexorabrowser.nex"
                     target="_blank"
                     rel="noopener noreferrer"
                   >
@@ -147,7 +147,7 @@ export default function NexoraLanding() {
                 className="bg-gradient-to-r from-purple-500 to-pink-500 hover:from-purple-600 hover:to-pink-600 text-white border-0 text-lg px-8 py-6 rounded-full shadow-2xl hover:shadow-purple-500/25 transition-all duration-300 transform hover:scale-105"
               >
                 <a
-                  href="https://play.google.com/store/apps/details?id=com.nexorabrowser.nexora"
+                  href="https://play.google.com/store/apps/details?id=com.nexorabrowser.nex"
                   target="_blank"
                   rel="noopener noreferrer"
                 >
@@ -201,7 +201,7 @@ export default function NexoraLanding() {
             className="bg-gradient-to-r from-purple-500 to-pink-500 hover:from-purple-600 hover:to-pink-600 text-white border-0 text-xl px-12 py-8 rounded-full shadow-2xl hover:shadow-purple-500/25 transition-all duration-300 transform hover:scale-105"
           >
             <a
-              href="https://play.google.com/store/apps/details?id=com.nexorabrowser.nexora"
+              href="https://play.google.com/store/apps/details?id=com.nexorabrowser.nex"
               target="_blank"
               rel="noopener noreferrer"
             >
